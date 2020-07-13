@@ -6,7 +6,7 @@ puts("Hola Mundo, Bienvenido al Mundo de Ruby")
 
 puts nombre
 
-variable = "Freddy"
+variable = "Freddy" 
 
 puts variable
 
